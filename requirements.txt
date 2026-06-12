@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 flask
 scikit-learn
 pandas
+=======
+flask
+scikit-learn
+pandas
+>>>>>>> d65afd4e6445203fa37a6c48d53e8c03cc5a416d
 gunicorn
