@@ -173,4 +173,3 @@ http://127.0.0.1:5000
 B.Tech Information Technology
 Machine Learning Enthusiast | Aspiring Data Scientist
 
-GitHub: https://github.com/YOUR_USERNAME
